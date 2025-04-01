@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background: #ecf0f3;
+    font-family: Arial, sans-serif;
+  }
+  
+  .custom-form {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px #ccc;
+  }
+  
+  .custom-form input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  .custom-form button {
+    width: 100%;
+    padding: 8px;
+    background: #5cb85c;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
